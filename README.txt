@@ -12,6 +12,7 @@ Name History
 =======================================================================
 [b]## TRANSLATION[/b]
 Spanish Translation by [url=https://www.simplemachines.org/community/index.php?action=profile;u=322597]Rock Lee[/url]
+Russian Translation by [url=https://www.simplemachines.org/community/index.php?action=profile;u=97557]digger[/url]
 
 [b]## MOD INFORMATION[/b]
 Compatible With: SMF 2.0.x
